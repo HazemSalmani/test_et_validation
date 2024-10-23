@@ -24,3 +24,7 @@ export default function (image, size) {
     limits: size,
   }).single(image);
 }
+
+
+
+///ty
